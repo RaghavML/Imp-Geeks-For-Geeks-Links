@@ -1,7 +1,6 @@
 # Imp-Geeks-For-Geeks-Links
 
-##
-->[Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
+#->[Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
 
 ->[C++ tricks for competitive programming](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)  
 
